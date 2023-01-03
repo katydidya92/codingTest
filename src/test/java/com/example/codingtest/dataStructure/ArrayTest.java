@@ -1,4 +1,4 @@
-package com.example.codingtest.test;
+package com.example.codingtest.dataStructure;
 
 import java.util.ArrayList;
 
