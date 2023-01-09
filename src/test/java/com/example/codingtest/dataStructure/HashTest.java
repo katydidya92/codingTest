@@ -1,11 +1,11 @@
 package com.example.codingtest.dataStructure;
 
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.params.ParameterizedTest;
 
 public class HashTest {
 
     public Slot[] hashTable;
+
     public HashTest(Integer size) {
         this.hashTable = new Slot[size];
     }
